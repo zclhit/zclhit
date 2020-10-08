@@ -1,0 +1,22 @@
+name: Update Gist
+
+on:
+  push:
+    branch: master
+
+  schedule:
+    - cron: "0 */3 * * *"
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Install
+        run: npm ci
+      - name: Update gist
+        run: node ./index.js  --unhandled-rejections=strict
+        env:
+          GH_TOKEN: 89b6776d36349a54d5e7e67c7b767a65e6e48539
+          GIST_ID: 7854aac61f991ef4e7ae7b8440e4fdc6
+          WAKATIME_API_KEY: e4fc7aab-3330-4362-b538-445ffd3fc29d
