@@ -7,3 +7,7 @@
 📊 **我本周的工作情况大概是：**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=changle&hide_title=true&hide_border=true&langs_count=5)
+
+📊 **我的Github贡献概览：**
+
+![Github stastics](https://github-readme-stats.vercel.app/api?username=zclhit&show_icons=true)
