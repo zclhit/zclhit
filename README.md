@@ -1,5 +1,4 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-This is the place where I opensource stuff and break things :rofl:
 
 我是Changle Zhang，在互联网上我更喜欢用自己的昵称zclhit，从昵称也能看出我本科和硕士都是就读于哈尔滨工业大学（HIT）。
 非科班出身的我曾经专注于单片机，雷达图像处理，以及人脑磁共振图像处理，对CV相关的算法和工程有一定的了解和实践经验。
